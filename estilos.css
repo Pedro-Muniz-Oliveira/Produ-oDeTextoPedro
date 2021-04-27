@@ -1,0 +1,17 @@
+a:link{
+    color: rebeccapurple;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: cadetblue;
+    background-color: antiquewhite;
+}
+a:active{
+    color: antiquewhite;
+}
+.perfil{
+    border-radius: 170px;
+    width: 200px;
+}
